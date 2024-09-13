@@ -1,6 +1,6 @@
 este es un repositorio de prueba de felipe lozano
 
-ajuste de separacion de ramas
+ajuste generacion de conflito repositorio remoto
 
  
 
