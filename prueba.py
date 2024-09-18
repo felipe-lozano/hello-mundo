@@ -133,3 +133,4 @@ elif (jugador == 1 and computadora == 3) or (jugador == 2 and computadora == 1) 
      print("¡Ganaste! la computadora escogio= ", opcion_computadora , "y tu =", opcion_computadora1) 
 else: 
      print("Perdiste. la computadora escogio= ", opcion_computadora , "y tu =", opcion_computadora1)
+     
