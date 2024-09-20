@@ -1,2 +1,9 @@
-pruebaignore.py
+    cantidad = int(input("cantidad "))
+    ia = float(input("ia "))
+    años= int(input("años "))
+    iaf= ia/100
+    ganancia= cantidad*iaf*años
+    ganancia_final= ganancia+cantidad
 
+    print ("la ganarcia del primar año es de: ", )
+    print("La ganancia final es: ", ganancia_final)
